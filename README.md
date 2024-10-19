@@ -1,8 +1,9 @@
 # Azure-Synapse-Workspace-Project
+
 Data Ingestion and Analytics Pipeline using Azure Synapse Analytics.
 Azure Synapse Analytics is a cloud-based analytics service that combines big data and data warehousing capabilities into a single platform. It enables users to ingest, prepare, manage, and serve data for business intelligence and analytics. 
 
-Azure-Synapse-Workspace- Workflow :
+Azure-Synapse-Workspace Workflow :
 
 Ingest Data: Use Synapse pipelines to ingest data from Azure Blob Storage into Synapse SQL or a data lake.
 
